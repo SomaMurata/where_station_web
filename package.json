@@ -2,6 +2,8 @@
   "name": "where_station_web",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://somamurata.github.io/where_station_web",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
