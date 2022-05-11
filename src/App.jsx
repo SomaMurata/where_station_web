@@ -12,7 +12,7 @@ function App() {
   const isFirstRef = useRef(true);
 
   const stationURL =
-    'http://express.heartrails.com/api/json?method=getStations';
+    'https://express.heartrails.com/api/json?method=getStations';
 
   /*
    * ページ描画時にGeolocation APIが使えるかどうかをチェック
